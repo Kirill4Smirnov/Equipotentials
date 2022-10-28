@@ -1,4 +1,3 @@
 # Equipotentials
-This project is abour researcing electric potential on the surface of water.
-There is code for manipulator (I automized the experiment) and WM theoretical model.
-If you need open a .nb file, download it and open with Wolfram Mathematica
+This project is about researcing an electric potential on the surface of water.
+There is a code for manipulator (I have automized the experiment) and Mathematica theoretical model.
